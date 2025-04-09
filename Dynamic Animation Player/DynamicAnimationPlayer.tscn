@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://ddq51qcmrjbcd"]
+
+[ext_resource type="Script" uid="uid://cb6etwv14maxa" path="res://System/Dynamic Animation Player/DynamicAnimationPlayer.gd" id="1_8dbgp"]
+
+[node name="DynamicAnimationPlayer" type="Node"]
+script = ExtResource("1_8dbgp")
+animations = null
+interactions = null
